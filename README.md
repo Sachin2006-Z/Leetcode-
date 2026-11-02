@@ -20,4 +20,12 @@
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0216-combination-sum-iii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
