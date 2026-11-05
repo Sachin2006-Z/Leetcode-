@@ -34,6 +34,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -47,4 +48,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
