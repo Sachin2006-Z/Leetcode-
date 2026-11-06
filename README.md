@@ -21,6 +21,7 @@
 | [0040-combination-sum-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0216-combination-sum-iii/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,12 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 <!---LeetCode Topics End-->
