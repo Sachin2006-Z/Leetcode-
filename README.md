@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [1238-circular-permutation-in-binary-representation](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@
 | [0040-combination-sum-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0216-combination-sum-iii/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [1238-circular-permutation-in-binary-representation](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1238-circular-permutation-in-binary-representation](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 <!---LeetCode Topics End-->
