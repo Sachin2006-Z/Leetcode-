@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0216-combination-sum-iii/) | Medium |
+| [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -43,6 +44,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -69,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
