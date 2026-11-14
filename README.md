@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1390-four-divisors](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1390-four-divisors/) | Medium |
 ## Dynamic Programming
@@ -25,6 +26,7 @@
 | [0216-combination-sum-iii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0216-combination-sum-iii/) | Medium |
 | [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0275-h-index-ii/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1390-four-divisors](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1390-four-divisors/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
