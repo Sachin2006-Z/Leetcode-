@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0216-combination-sum-iii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0275-h-index-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -92,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1390-four-divisors](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1390-four-divisors/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
