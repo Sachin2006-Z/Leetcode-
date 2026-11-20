@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Sorting
@@ -65,6 +66,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
