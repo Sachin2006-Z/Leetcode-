@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -71,10 +72,12 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Bit Manipulation
@@ -102,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
