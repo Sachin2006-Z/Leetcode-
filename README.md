@@ -31,6 +31,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1390-four-divisors](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1390-four-divisors/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0275-h-index-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0275-h-index-ii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
