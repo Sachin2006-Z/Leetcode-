@@ -7,6 +7,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0483-smallest-good-base](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0483-smallest-good-base/) | Hard |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1238-circular-permutation-in-binary-representation/) | Medium |
 | [1390-four-divisors](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1390-four-divisors/) | Medium |
 ## Dynamic Programming
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0275-h-index-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0275-h-index-ii/) | Medium |
+| [0483-smallest-good-base](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0483-smallest-good-base/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Counting Sort
