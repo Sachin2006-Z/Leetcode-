@@ -31,6 +31,7 @@
 | [0275-h-index-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0275-h-index-ii/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1390-four-divisors](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1390-four-divisors/) | Medium |
@@ -76,6 +77,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Simulation
@@ -120,4 +122,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
