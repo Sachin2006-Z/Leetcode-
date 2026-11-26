@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0275-h-index-ii/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0739-daily-temperatures/) | Medium |
@@ -60,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Enumeration
@@ -126,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0739-daily-temperatures/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
