@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
+| [0402-remove-k-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sachin2006-Z/Leetcode-/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Recursion
@@ -79,6 +80,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/Sachin2006-Z/Leetcode-/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -127,9 +129,11 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
