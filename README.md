@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0040-combination-sum-ii/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0274-h-index/) | Medium |
@@ -97,6 +98,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0275-h-index-ii](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0275-h-index-ii/) | Medium |
 | [0483-smallest-good-base](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0483-smallest-good-base/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sachin2006-Z/Leetcode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -136,4 +138,8 @@
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0402-remove-k-digits/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Sachin2006-Z/Leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
